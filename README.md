@@ -9,7 +9,7 @@ This repository contains my personal practice and notes from the excellent [PyTo
 I followed the tutorials and exercises from:
 
 - YouTube Course: [PyTorch for Deep Learning](https://www.youtube.com/watch?v=V_xro1bcAuA)
-- 🧑GitHub Repository: [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+- GitHub Repository: [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 - Website: [LearnPyTorch.io](https://www.learnpytorch.io/)
 
 ---
